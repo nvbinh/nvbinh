@@ -1,6 +1,6 @@
-for freelance work? do reach, [Steve Nguyen](mailto:nguyenvanbinhctk28@gmail.com) :)
+I prefer to work remotely, please reach me [Steve Nguyen](mailto:nguyenvanbinhctk28@gmail.com) :)
 
-📊 **this week i spent my time on:**
+**this week i spent my time on:**
 <!--START_SECTION:waka-->
 
 ```txt
