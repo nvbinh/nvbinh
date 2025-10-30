@@ -1,7 +1,7 @@
 I prefer to work remotely, please reach me [Steve Nguyen](mailto:nguyenvanbinhctk28@gmail.com) :)
 
 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+
 
 ```txt
 TypeScript   11 hrs 24 mins  █████████████████████████   100.00 %
